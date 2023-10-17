@@ -47,7 +47,7 @@ h1 {
     filter: drop-shadow(5px 5px 5px black);
     max-width: 100%;
     width: 60vw;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 }
 
 #aboutusernamewalker {
@@ -64,7 +64,7 @@ h1 {
     align-content: center;
     font-family: 'Roboto Mono', monospace;
     color:white;
-    font-size: 2vw;
+    font-size: 15px;
     text-align: center;
     width: 80vw;
     margin-left: auto;
