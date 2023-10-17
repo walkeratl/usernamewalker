@@ -53,15 +53,19 @@ h1 {
     display: block;
     font-family: 'Roboto Mono', monospace;
     color:white;
-    font-size: 7vw;
+    font-size: 2vw;
     text-align: center;
 }
 
 #aboutusernamewalker p{
-    align-content: left;
+    align-content: center;
     font-family: 'Roboto Mono', monospace;
     color:white;
-    font-size: 30px;
+    font-size: 2vw;
+    text-align: center;
+    width: 80vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 
 #aboutusernamewalker img {
@@ -74,10 +78,12 @@ h1 {
     filter: drop-shadow(5px 5px 5px black);
     max-width: 100%;
     width: 65vw;
+    padding-left:22.5vw;
+    padding-right:22.5vw;
     padding-bottom:60px;
 
 }
 
-#aboutroflmaoist a{
+#aboutusernamewalker a{
     color: white;
 }
