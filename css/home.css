@@ -1,0 +1,73 @@
+html{
+    background-image: url(../resources/water.gif);
+    background-size: 2000px 10000px;
+    background-position: center;
+}
+
+p, a, h1, h2 {
+    text-shadow:1px 1px black;
+}
+
+header{
+    max-width: 100%;
+    align-content: center;
+}
+
+header nav{
+    align-content: center;
+}
+
+header li {
+    display: inline-block;
+}
+
+header a {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: white;
+}
+
+#outnow {
+    align-content: center;
+    font-family: 'Playfair Display', serif;
+    color :white;
+    font-size: 12vw;
+    text-align:center;
+    size: auto;
+    max-width: 100%;
+}
+
+#outnow img {
+    filter: drop-shadow(5px 5px 5px black);
+    max-width: 100%;
+    width: 80vw;
+}
+
+#listen {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    max-width: 100%;
+    size: auto;
+}
+
+#listen ul {
+    align-content: center;
+    text-align: center;
+    max-width: 100%;
+    size: auto;
+    list-style-type: none;
+    padding: 0;
+}
+
+#listen a {
+    color: white;
+}
+
+#listen span{
+    font-family: 'Playfair Display', serif;
+    color :white;
+    font-size: 20px;
+    align-content: center;
+    text-align: center;
+}

@@ -1,0 +1,83 @@
+html{
+    background-image: url("../resources/water.gif");
+    background-size: 2000px 10000px;
+    background-position: center;
+}
+
+p, a, h1, h2 {
+    text-shadow:1px 1px black;
+}
+
+header{
+    width: max-content;
+    align-content: center;
+}
+
+header nav{
+    align-content: center;
+}
+
+header li {
+    display: inline-block;
+}
+
+header a {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: white;
+}
+
+#iamusernamewalker {
+    align-content: center;
+    font-family: 'Playfair Display', serif;
+    color :white;
+    font-size: 3vw;
+    text-align:center;
+}
+
+h1 {
+    width:80vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    text-align:center;
+}
+
+#iamusernamewalker img {
+    filter: drop-shadow(5px 5px 5px black);
+    max-width: 100%;
+    width: 60vw;
+    padding-bottom: 60px;
+}
+
+#aboutusernamewalker {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    color:white;
+    font-size: 7vw;
+    text-align: center;
+}
+
+#aboutusernamewalker p{
+    align-content: left;
+    font-family: 'Playfair Display', serif;
+    color:white;
+    font-size: 30px;
+}
+
+#aboutusernamewalker img {
+    filter: drop-shadow(5px 5px 5px black);
+    max-width: 100%;
+    width: 80vw;
+}
+
+#aboutusernamewalker img#main, img#dj {
+    filter: drop-shadow(5px 5px 5px black);
+    max-width: 100%;
+    width: 65vw;
+    padding-bottom:60px;
+
+}
+
+#aboutroflmaoist a{
+    color: white;
+}
