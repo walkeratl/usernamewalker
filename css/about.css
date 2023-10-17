@@ -28,18 +28,19 @@ header a {
 }
 
 #iamusernamewalker {
-    align-content: center;
     font-family: 'Roboto Mono', monospace;
     color :white;
     font-size: 3vw;
-    text-align:center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
     width:80vw;
-    padding-left: 10vw;
-    padding-right: 10vw;
-    text-align:center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #iamusernamewalker img {
@@ -55,6 +56,8 @@ h1 {
     color:white;
     font-size: 2vw;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #aboutusernamewalker p{
@@ -64,8 +67,8 @@ h1 {
     font-size: 2vw;
     text-align: center;
     width: 80vw;
-    padding-left: 10vw;
-    padding-right: 10vw;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #aboutusernamewalker img {
@@ -78,8 +81,8 @@ h1 {
     filter: drop-shadow(5px 5px 5px black);
     max-width: 100%;
     width: 65vw;
-    padding-left:22.5vw;
-    padding-right:22.5vw;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom:60px;
 
 }
