@@ -27,23 +27,23 @@ header a {
     color: white;
 }
 
-#outnow {
+#outnow, #outnow2 {
     align-content: center;
     font-family: 'Roboto Mono', monospace;
     color :white;
-    font-size: 12vw;
+    font-size: 10vw;
     text-align:center;
     size: auto;
     max-width: 100%;
 }
 
-#outnow img {
+#outnow img, #outnow2 img {
     filter: drop-shadow(5px 5px 5px black);
     max-width: 100%;
     width: 80vw;
 }
 
-#listen {
+#listen, #listen2 {
     display: block;
     font-family: 'Roboto Mono', monospace;
     font-size: 25px;
@@ -51,7 +51,7 @@ header a {
     size: auto;
 }
 
-#listen ul {
+#listen ul, #listen2 ul {
     align-content: center;
     text-align: center;
     max-width: 100%;
@@ -60,11 +60,11 @@ header a {
     padding: 0;
 }
 
-#listen a {
+#listen a, #listen2 a {
     color: white;
 }
 
-#listen span{
+#listen span, #listen2 span{
     font-family: 'Roboto Mono', monospace;
     color :white;
     font-size: 20px;
